@@ -1,0 +1,34 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Indeanex Studio</title>
+  <style>
+    body { font-family: sans-serif; background: #0f0f0f; color: #fff; margin: 0; padding: 2rem; }
+    h1 { color: #ff4081; }
+    a { color: #00e5ff; text-decoration: none; }
+    .card { background: #1a1a1a; padding: 1rem; margin-top: 1rem; border-radius: 8px; }
+  </style>
+</head>
+<body>
+  <h1>Indeanex Studio</h1>
+  <p>خوش اومدی به استودیو خلاقیت ما! ما ایده‌ها رو تبدیل به پروژه می‌کنیم.</p>
+
+  <div class="card">
+    <h2>پروژه‌ها</h2>
+    <ul>
+      <li>اپ ماشین‌حساب ارزی</li>
+      <li>بازی حمله روز صفر</li>
+      <li>نمونه وب‌سایت شخصی</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>تماس با ما</h2>
+    <p>Email: contact@indeanex.com (آینده)</p>
+    <p>Instagram: @indeanex</p>
+  </div>
+</body>
+</html>
